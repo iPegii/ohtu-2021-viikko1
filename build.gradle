@@ -14,12 +14,12 @@ dependencies {
 }
 
 application {
-    mainClass = 'ohtu.ohtuvarasto.paaohjelma.Main'
+    mainClass = 'ohtu.paaohjelma.Main'
 }
 
 jar {
     manifest {
-        attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
+        attributes 'Main-Class': 'ohtu.paaohjelma.Main'
     }
 }
 
