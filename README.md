@@ -2,3 +2,5 @@
 
 # ohtu-2021-viikko1
 Ohjelmistotuotanto - kevät 2021
+
+[Muut ohtu-tehtävät](https://github.com/iPegii/ohtu-2021)
