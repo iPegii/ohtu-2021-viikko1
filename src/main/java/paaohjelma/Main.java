@@ -57,36 +57,4 @@ public class Main {
         System.out.println("saatiin " + saatiin);
         System.out.println("Mehuvarasto: " + mehua);
     }
-    
-    public void weirdMethod() 
-    {
-        int a = 0;
-        int b = 1;
-        int c = 2;
-        int d = 3;
-        
-        if(a < b) {
-            System.out.println("");
-            if(b < a) {
-                System.out.println("");
-                if(a >= b && c < a) {
-                    System.out.println("");
-                    for(int i = 0; i < 10; i++) {
-                        System.out.println("");
-                       for(int j = 0; j < 10; j++) {
-                           System.out.println("");
-                    } 
-                    }
-                }
-            } else if(b <= c || b < a) {
-                System.out.println("");
-            }
-        } else {
-            if(b <= d || b < c) {
-                System.out.println("");
-            } else if(d <= c || b < c) {
-                System.out.println("");
-            }
-        }
-    }
 }
